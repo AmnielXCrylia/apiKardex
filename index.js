@@ -12,7 +12,7 @@ app.use(express.json());
 // Cargar datos desde el archivo JSON
 let kardexList = [];
 try {
-    const path = requeire('path')
+    const path = require('path')
     const data = fs.readFileSync(path.join(__dirname + 'kardexDb.json'), 'utf8');
     kardexList = JSON.parse(data); 
 } catch (error) {
