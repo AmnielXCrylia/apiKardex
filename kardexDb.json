@@ -1,0 +1,448 @@
+[
+    
+    {
+        "nombre": "PLAZOLA SALCIDO JORGE",
+        "numero_cuenta": "9312591-7",
+        "periodo": "8",
+        "promedio": 8.11,
+        "carrera": "LICENCIATURA EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN",
+        "plan": "2",
+        "semestres": [
+          {
+            "nombre": "PRIMER SEMESTRE",
+            "materias": [
+              { "clave": "02101", "nombre": "FUNDAMENTOS DE PROGRAMACIÓN", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "21110067" },
+              { "clave": "02102", "nombre": "ÁLGEBRA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "21110068" },
+              { "clave": "02103", "nombre": "INGENIERÍA DE HARDWARE", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "21110069" },
+              { "clave": "02104", "nombre": "PENSAMIENTO CRÍTICO Y SOLUCIÓN DE PROBLEMAS", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "21110070" },
+              { "clave": "02105", "nombre": "FÍSICA", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "21110071" },
+              { "clave": "02106", "nombre": "INGLÉS I", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "21110072" }
+            ]
+          },
+          {
+            "nombre": "SEGUNDO SEMESTRE",
+            "materias": [
+              { "clave": "02207", "nombre": "PROGRAMACIÓN ESTRUCTURADA", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "21210302" },
+              { "clave": "02208", "nombre": "MATEMÁTICAS DISCRETAS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "21210303" },
+              { "clave": "02209", "nombre": "SOPORTE TÉCNICO", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "21210304" },
+              { "clave": "02210", "nombre": "COMUNICACIÓN ORAL Y ESCRITA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "21210305" },
+              { "clave": "02211", "nombre": "SISTEMAS DIGITALES", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "21210306" },
+              { "clave": "02212", "nombre": "INGLÉS II", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "21210307" }
+            ]
+          },
+          {
+            "nombre": "TERCER SEMESTRE",
+            "materias": [
+              { "clave": "02316", "nombre": "PROGRAMACIÓN ORIENTADA A OBJETOS", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "22220470" },
+              { "clave": "02317", "nombre": "ÁLGEBRA LINEAL", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "22110110" },
+              { "clave": "02318", "nombre": "FUNDAMENTOS DE REDES", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "22110111" },
+              { "clave": "02319", "nombre": "VALORES Y MEDIO AMBIENTE", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22110112" },
+              { "clave": "02321", "nombre": "ANÁLISIS DE SISTEMAS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "22110113" },
+              { "clave": "02322", "nombre": "INGLÉS III", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22110114" },
+              { "clave": "02323", "nombre": "PRÁCTICA PROFESIONAL I", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22110115" }
+            ]
+          },
+          {
+            "nombre": "CUARTO SEMESTRE",
+            "materias": [
+              { "clave": "02424", "nombre": "ESTRUCTURA DE DATOS", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22210340" },
+              { "clave": "02425", "nombre": "CÁLCULO DIFERENCIAL E INTEGRAL", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22210341" },
+              { "clave": "02426", "nombre": "DISEÑO E INSTALACIÓN DE REDES", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22210342" },
+              { "clave": "02427", "nombre": "FUNDAMENTOS DE BASES DE DATOS", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22210343" },
+              { "clave": "02428", "nombre": "DISEÑO DE SISTEMAS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "22210344" },
+              { "clave": "02429", "nombre": "INGLÉS IV", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22210345" }
+            ]
+          },
+          {
+            "nombre": "QUINTO SEMESTRE",
+            "materias": [
+              { "clave": "02534", "nombre": "PROGRAMACIÓN VISUAL", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23110083" },
+              { "clave": "02535", "nombre": "PROBABILIDAD Y ESTADÍSTICA", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23110084" },
+              { "clave": "02536", "nombre": "ADMINISTRACIÓN DE REDES", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "23110085" },
+              { "clave": "02537", "nombre": "DISEÑO Y ADMINISTRACIÓN DE BASES DE DATOS", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "23110086" },
+              { "clave": "02538", "nombre": "REDACCIÓN DE TEXTOS CIENTÍFICOS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "23110087" },
+              { "clave": "02539", "nombre": "CABLEADO ESTRUCTURADO", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23110088" }
+            ]
+          },
+          {
+            "nombre": "SEXTO SEMESTRE",
+            "materias": [
+              { "clave": "02642", "nombre": "DESARROLLO WEB I", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "23210344" },
+              { "clave": "02643", "nombre": "TEORÍA DE GRAFOS", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23210345" },
+              { "clave": "02644", "nombre": "TECNOLOGÍAS EMERGENTES", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "23210346" },
+              { "clave": "02645", "nombre": "EMPRENDEDORES", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23210347" },
+              { "clave": "02646", "nombre": "PRÁCTICA PROFESIONAL II", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23210348" },
+              { "clave": "02647", "nombre": "SEGURIDAD EN REDES", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23210349" },
+              { "clave": "02648", "nombre": "INFORMÁTICA EDUCATIVA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23210350" }
+            ]
+          },
+          {
+            "nombre": "SÉPTIMO SEMESTRE",
+            "materias": [
+              { "clave": "02751", "nombre": "DESARROLLO WEB II", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "24110084" },
+              { "clave": "02752", "nombre": "INVESTIGACIÓN DE OPERACIONES", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "24110085" },
+              { "clave": "02753", "nombre": "SEMINARIO DE TESIS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "24110086" },
+              { "clave": "02755", "nombre": "TECNOLOGÍA MULTIMEDIA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "24110088" },
+              { "clave": "02756", "nombre": "TELEMÁTICA I", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "24110089" },
+              { "clave": "02754", "nombre": "REDES AVANZADAS", "calificacion": 5, "letra": "CINCO", "tipo": "O", "folio": "24110087" }
+            ]
+          }
+        ]
+    },
+    {
+        "nombre": "ARAMBURO VARGAS JOSE RAMON",
+        "numero_cuenta": "1888278-1",
+        "periodo": "8",
+        "promedio": 7.70,
+        "carrera": "LICENCIATURA EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN",
+        "plan": "2",
+        "semestres": [
+          {
+            "nombre": "PRIMER SEMESTRE",
+            "materias": [
+              { "clave": "02101", "nombre": "FUNDAMENTOS DE PROGRAMACIÓN", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "21110067" },
+              { "clave": "02102", "nombre": "ÁLGEBRA", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "21110068" },
+              { "clave": "02103", "nombre": "INGENIERÍA DE HARDWARE", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "21110069" },
+              { "clave": "02104", "nombre": "PENSAMIENTO CRÍTICO Y SOLUCIÓN DE PROBLEMAS", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "21110070" },
+              { "clave": "02105", "nombre": "FÍSICA", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "21110071" },
+              { "clave": "02106", "nombre": "INGLÉS I", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "21110072" }
+            ]
+          },
+          {
+            "nombre": "SEGUNDO SEMESTRE",
+            "materias": [
+              { "clave": "02207", "nombre": "PROGRAMACIÓN ESTRUCTURADA", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "21210302" },
+              { "clave": "02208", "nombre": "MATEMÁTICAS DISCRETAS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "21210303" },
+              { "clave": "02209", "nombre": "SOPORTE TÉCNICO", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "21210304" },
+              { "clave": "02210", "nombre": "COMUNICACIÓN ORAL Y ESCRITA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "21210305" },
+              { "clave": "02211", "nombre": "SISTEMAS DIGITALES", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "21210306" },
+              { "clave": "02212", "nombre": "INGLÉS II", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "21210307" }
+            ]
+          },
+          {
+            "nombre": "TERCER SEMESTRE",
+            "materias": [
+              { "clave": "02316", "nombre": "PROGRAMACIÓN ORIENTADA A OBJETOS", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "22220470" },
+              { "clave": "02317", "nombre": "ÁLGEBRA LINEAL", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "22110110" },
+              { "clave": "02318", "nombre": "FUNDAMENTOS DE REDES", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "22110111" },
+              { "clave": "02319", "nombre": "VALORES Y MEDIO AMBIENTE", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22110112" },
+              { "clave": "02321", "nombre": "ANÁLISIS DE SISTEMAS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "22110113" },
+              { "clave": "02322", "nombre": "INGLÉS III", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22110114" },
+              { "clave": "02323", "nombre": "PRÁCTICA PROFESIONAL I", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22110115" }
+            ]
+          },
+          {
+            "nombre": "CUARTO SEMESTRE",
+            "materias": [
+              { "clave": "02424", "nombre": "ESTRUCTURA DE DATOS", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22210340" },
+              { "clave": "02425", "nombre": "CÁLCULO DIFERENCIAL E INTEGRAL", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22210341" },
+              { "clave": "02426", "nombre": "DISEÑO E INSTALACIÓN DE REDES", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22210342" },
+              { "clave": "02427", "nombre": "FUNDAMENTOS DE BASES DE DATOS", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22210343" },
+              { "clave": "02428", "nombre": "DISEÑO DE SISTEMAS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "22210344" },
+              { "clave": "02429", "nombre": "INGLÉS IV", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22210345" }
+            ]
+          },
+          {
+            "nombre": "QUINTO SEMESTRE",
+            "materias": [
+              { "clave": "02534", "nombre": "PROGRAMACIÓN VISUAL", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23110083" },
+              { "clave": "02535", "nombre": "PROBABILIDAD Y ESTADÍSTICA", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23110084" },
+              { "clave": "02536", "nombre": "ADMINISTRACIÓN DE REDES", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "23110085" },
+              { "clave": "02537", "nombre": "DISEÑO Y ADMINISTRACIÓN DE BASES DE DATOS", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "23110086" },
+              { "clave": "02538", "nombre": "REDACCIÓN DE TEXTOS CIENTÍFICOS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "23110087" },
+              { "clave": "02539", "nombre": "CABLEADO ESTRUCTURADO", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23110088" }
+            ]
+          },
+          {
+            "nombre": "SEXTO SEMESTRE",
+            "materias": [
+              { "clave": "02642", "nombre": "DESARROLLO WEB I", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "23210344" },
+              { "clave": "02643", "nombre": "TEORÍA DE GRAFOS", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23210345" },
+              { "clave": "02644", "nombre": "TECNOLOGÍAS EMERGENTES", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "23210346" },
+              { "clave": "02645", "nombre": "EMPRENDEDORES", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23210347" },
+              { "clave": "02646", "nombre": "PRÁCTICA PROFESIONAL II", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23210348" },
+              { "clave": "02647", "nombre": "SEGURIDAD EN REDES", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23210349" },
+              { "clave": "02648", "nombre": "INFORMÁTICA EDUCATIVA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23210350" }
+            ]
+          },
+          {
+            "nombre": "SÉPTIMO SEMESTRE",
+            "materias": [
+              { "clave": "02751", "nombre": "DESARROLLO WEB II", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "24110084" },
+              { "clave": "02752", "nombre": "INVESTIGACIÓN DE OPERACIONES", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "24110085" },
+              { "clave": "02753", "nombre": "SEMINARIO DE TESIS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "24110086" },
+              { "clave": "02755", "nombre": "TECNOLOGÍA MULTIMEDIA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "24110088" },
+              { "clave": "02756", "nombre": "TELEMÁTICA I", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "24110089" },
+              { "clave": "02754", "nombre": "REDES AVANZADAS", "calificacion": 5, "letra": "CINCO", "tipo": "O", "folio": "24110087" }
+            ]
+          }
+        ]
+    },
+    {
+        "nombre": " BELTRAN TORRES JESUS ADAIR",
+        "numero_cuenta": "1887556-4",
+        "periodo": "8",
+        "promedio": 8.43,
+        "carrera": "LICENCIATURA EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN",
+        "plan": "2",
+        "semestres": [
+          {
+            "nombre": "PRIMER SEMESTRE",
+            "materias": [
+              { "clave": "02101", "nombre": "FUNDAMENTOS DE PROGRAMACIÓN", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "21110067" },
+              { "clave": "02102", "nombre": "ÁLGEBRA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "21110068" },
+              { "clave": "02103", "nombre": "INGENIERÍA DE HARDWARE", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "21110069" },
+              { "clave": "02104", "nombre": "PENSAMIENTO CRÍTICO Y SOLUCIÓN DE PROBLEMAS", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "21110070" },
+              { "clave": "02105", "nombre": "FÍSICA", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "21110071" },
+              { "clave": "02106", "nombre": "INGLÉS I", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "21110072" }
+            ]
+          },
+          {
+            "nombre": "SEGUNDO SEMESTRE",
+            "materias": [
+              { "clave": "02207", "nombre": "PROGRAMACIÓN ESTRUCTURADA", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "21210302" },
+              { "clave": "02208", "nombre": "MATEMÁTICAS DISCRETAS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "21210303" },
+              { "clave": "02209", "nombre": "SOPORTE TÉCNICO", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "21210304" },
+              { "clave": "02210", "nombre": "COMUNICACIÓN ORAL Y ESCRITA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "21210305" },
+              { "clave": "02211", "nombre": "SISTEMAS DIGITALES", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "21210306" },
+              { "clave": "02212", "nombre": "INGLÉS II", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "21210307" }
+            ]
+          },
+          {
+            "nombre": "TERCER SEMESTRE",
+            "materias": [
+              { "clave": "02316", "nombre": "PROGRAMACIÓN ORIENTADA A OBJETOS", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "22220470" },
+              { "clave": "02317", "nombre": "ÁLGEBRA LINEAL", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "22110110" },
+              { "clave": "02318", "nombre": "FUNDAMENTOS DE REDES", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "22110111" },
+              { "clave": "02319", "nombre": "VALORES Y MEDIO AMBIENTE", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22110112" },
+              { "clave": "02321", "nombre": "ANÁLISIS DE SISTEMAS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "22110113" },
+              { "clave": "02322", "nombre": "INGLÉS III", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22110114" },
+              { "clave": "02323", "nombre": "PRÁCTICA PROFESIONAL I", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22110115" }
+            ]
+          },
+          {
+            "nombre": "CUARTO SEMESTRE",
+            "materias": [
+              { "clave": "02424", "nombre": "ESTRUCTURA DE DATOS", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22210340" },
+              { "clave": "02425", "nombre": "CÁLCULO DIFERENCIAL E INTEGRAL", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22210341" },
+              { "clave": "02426", "nombre": "DISEÑO E INSTALACIÓN DE REDES", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22210342" },
+              { "clave": "02427", "nombre": "FUNDAMENTOS DE BASES DE DATOS", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22210343" },
+              { "clave": "02428", "nombre": "DISEÑO DE SISTEMAS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "22210344" },
+              { "clave": "02429", "nombre": "INGLÉS IV", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22210345" }
+            ]
+          },
+          {
+            "nombre": "QUINTO SEMESTRE",
+            "materias": [
+              { "clave": "02534", "nombre": "PROGRAMACIÓN VISUAL", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23110083" },
+              { "clave": "02535", "nombre": "PROBABILIDAD Y ESTADÍSTICA", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23110084" },
+              { "clave": "02536", "nombre": "ADMINISTRACIÓN DE REDES", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "23110085" },
+              { "clave": "02537", "nombre": "DISEÑO Y ADMINISTRACIÓN DE BASES DE DATOS", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "23110086" },
+              { "clave": "02538", "nombre": "REDACCIÓN DE TEXTOS CIENTÍFICOS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "23110087" },
+              { "clave": "02539", "nombre": "CABLEADO ESTRUCTURADO", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23110088" }
+            ]
+          },
+          {
+            "nombre": "SEXTO SEMESTRE",
+            "materias": [
+              { "clave": "02642", "nombre": "DESARROLLO WEB I", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "23210344" },
+              { "clave": "02643", "nombre": "TEORÍA DE GRAFOS", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23210345" },
+              { "clave": "02644", "nombre": "TECNOLOGÍAS EMERGENTES", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "23210346" },
+              { "clave": "02645", "nombre": "EMPRENDEDORES", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23210347" },
+              { "clave": "02646", "nombre": "PRÁCTICA PROFESIONAL II", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23210348" },
+              { "clave": "02647", "nombre": "SEGURIDAD EN REDES", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23210349" },
+              { "clave": "02648", "nombre": "INFORMÁTICA EDUCATIVA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23210350" }
+            ]
+          },
+          {
+            "nombre": "SÉPTIMO SEMESTRE",
+            "materias": [
+              { "clave": "02751", "nombre": "DESARROLLO WEB II", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "24110084" },
+              { "clave": "02752", "nombre": "INVESTIGACIÓN DE OPERACIONES", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "24110085" },
+              { "clave": "02753", "nombre": "SEMINARIO DE TESIS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "24110086" },
+              { "clave": "02755", "nombre": "TECNOLOGÍA MULTIMEDIA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "24110088" },
+              { "clave": "02756", "nombre": "TELEMÁTICA I", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "24110089" },
+              { "clave": "02754", "nombre": "REDES AVANZADAS", "calificacion": 5, "letra": "CINCO", "tipo": "O", "folio": "24110087" }
+            ]
+          }
+        ]
+    },
+    {
+        "nombre": "CABRERA LEDESMA AMAYRANI",
+        "numero_cuenta": "2121304-6",
+        "periodo": "8",
+        "promedio": 7.09,
+        "carrera": "LICENCIATURA EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN",
+        "plan": "2",
+        "semestres": [
+          {
+            "nombre": "PRIMER SEMESTRE",
+            "materias": [
+              { "clave": "02101", "nombre": "FUNDAMENTOS DE PROGRAMACIÓN", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "21110067" },
+              { "clave": "02102", "nombre": "ÁLGEBRA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "21110068" },
+              { "clave": "02103", "nombre": "INGENIERÍA DE HARDWARE", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "21110069" },
+              { "clave": "02104", "nombre": "PENSAMIENTO CRÍTICO Y SOLUCIÓN DE PROBLEMAS", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "21110070" },
+              { "clave": "02105", "nombre": "FÍSICA", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "21110071" },
+              { "clave": "02106", "nombre": "INGLÉS I", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "21110072" }
+            ]
+          },
+          {
+            "nombre": "SEGUNDO SEMESTRE",
+            "materias": [
+              { "clave": "02207", "nombre": "PROGRAMACIÓN ESTRUCTURADA", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "21210302" },
+              { "clave": "02208", "nombre": "MATEMÁTICAS DISCRETAS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "21210303" },
+              { "clave": "02209", "nombre": "SOPORTE TÉCNICO", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "21210304" },
+              { "clave": "02210", "nombre": "COMUNICACIÓN ORAL Y ESCRITA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "21210305" },
+              { "clave": "02211", "nombre": "SISTEMAS DIGITALES", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "21210306" },
+              { "clave": "02212", "nombre": "INGLÉS II", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "21210307" }
+            ]
+          },
+          {
+            "nombre": "TERCER SEMESTRE",
+            "materias": [
+              { "clave": "02316", "nombre": "PROGRAMACIÓN ORIENTADA A OBJETOS", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "22220470" },
+              { "clave": "02317", "nombre": "ÁLGEBRA LINEAL", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "22110110" },
+              { "clave": "02318", "nombre": "FUNDAMENTOS DE REDES", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "22110111" },
+              { "clave": "02319", "nombre": "VALORES Y MEDIO AMBIENTE", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22110112" },
+              { "clave": "02321", "nombre": "ANÁLISIS DE SISTEMAS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "22110113" },
+              { "clave": "02322", "nombre": "INGLÉS III", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22110114" },
+              { "clave": "02323", "nombre": "PRÁCTICA PROFESIONAL I", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22110115" }
+            ]
+          },
+          {
+            "nombre": "CUARTO SEMESTRE",
+            "materias": [
+              { "clave": "02424", "nombre": "ESTRUCTURA DE DATOS", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22210340" },
+              { "clave": "02425", "nombre": "CÁLCULO DIFERENCIAL E INTEGRAL", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22210341" },
+              { "clave": "02426", "nombre": "DISEÑO E INSTALACIÓN DE REDES", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22210342" },
+              { "clave": "02427", "nombre": "FUNDAMENTOS DE BASES DE DATOS", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22210343" },
+              { "clave": "02428", "nombre": "DISEÑO DE SISTEMAS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "22210344" },
+              { "clave": "02429", "nombre": "INGLÉS IV", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22210345" }
+            ]
+          },
+          {
+            "nombre": "QUINTO SEMESTRE",
+            "materias": [
+              { "clave": "02534", "nombre": "PROGRAMACIÓN VISUAL", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23110083" },
+              { "clave": "02535", "nombre": "PROBABILIDAD Y ESTADÍSTICA", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23110084" },
+              { "clave": "02536", "nombre": "ADMINISTRACIÓN DE REDES", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "23110085" },
+              { "clave": "02537", "nombre": "DISEÑO Y ADMINISTRACIÓN DE BASES DE DATOS", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "23110086" },
+              { "clave": "02538", "nombre": "REDACCIÓN DE TEXTOS CIENTÍFICOS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "23110087" },
+              { "clave": "02539", "nombre": "CABLEADO ESTRUCTURADO", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23110088" }
+            ]
+          },
+          {
+            "nombre": "SEXTO SEMESTRE",
+            "materias": [
+              { "clave": "02642", "nombre": "DESARROLLO WEB I", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "23210344" },
+              { "clave": "02643", "nombre": "TEORÍA DE GRAFOS", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23210345" },
+              { "clave": "02644", "nombre": "TECNOLOGÍAS EMERGENTES", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "23210346" },
+              { "clave": "02645", "nombre": "EMPRENDEDORES", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23210347" },
+              { "clave": "02646", "nombre": "PRÁCTICA PROFESIONAL II", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23210348" },
+              { "clave": "02647", "nombre": "SEGURIDAD EN REDES", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23210349" },
+              { "clave": "02648", "nombre": "INFORMÁTICA EDUCATIVA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23210350" }
+            ]
+          },
+          {
+            "nombre": "SÉPTIMO SEMESTRE",
+            "materias": [
+              { "clave": "02751", "nombre": "DESARROLLO WEB II", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "24110084" },
+              { "clave": "02752", "nombre": "INVESTIGACIÓN DE OPERACIONES", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "24110085" },
+              { "clave": "02753", "nombre": "SEMINARIO DE TESIS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "24110086" },
+              { "clave": "02755", "nombre": "TECNOLOGÍA MULTIMEDIA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "24110088" },
+              { "clave": "02756", "nombre": "TELEMÁTICA I", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "24110089" },
+              { "clave": "02754", "nombre": "REDES AVANZADAS", "calificacion": 5, "letra": "CINCO", "tipo": "O", "folio": "24110087" }
+            ]
+          }
+        ]
+    },
+    {
+        "nombre": "CASILLAS NAVARRO JESUS JAVIER",
+        "numero_cuenta": "2121249-1",
+        "periodo": "8",
+        "promedio": 7.86,
+        "carrera": "LICENCIATURA EN INGENIERÍA EN SISTEMAS DE INFORMACIÓN",
+        "plan": "2",
+        "semestres": [
+          {
+            "nombre": "PRIMER SEMESTRE",
+            "materias": [
+              { "clave": "02101", "nombre": "FUNDAMENTOS DE PROGRAMACIÓN", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "21110067" },
+              { "clave": "02102", "nombre": "ÁLGEBRA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "21110068" },
+              { "clave": "02103", "nombre": "INGENIERÍA DE HARDWARE", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "21110069" },
+              { "clave": "02104", "nombre": "PENSAMIENTO CRÍTICO Y SOLUCIÓN DE PROBLEMAS", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "21110070" },
+              { "clave": "02105", "nombre": "FÍSICA", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "21110071" },
+              { "clave": "02106", "nombre": "INGLÉS I", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "21110072" }
+            ]
+          },
+          {
+            "nombre": "SEGUNDO SEMESTRE",
+            "materias": [
+              { "clave": "02207", "nombre": "PROGRAMACIÓN ESTRUCTURADA", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "21210302" },
+              { "clave": "02208", "nombre": "MATEMÁTICAS DISCRETAS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "21210303" },
+              { "clave": "02209", "nombre": "SOPORTE TÉCNICO", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "21210304" },
+              { "clave": "02210", "nombre": "COMUNICACIÓN ORAL Y ESCRITA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "21210305" },
+              { "clave": "02211", "nombre": "SISTEMAS DIGITALES", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "21210306" },
+              { "clave": "02212", "nombre": "INGLÉS II", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "21210307" }
+            ]
+          },
+          {
+            "nombre": "TERCER SEMESTRE",
+            "materias": [
+              { "clave": "02316", "nombre": "PROGRAMACIÓN ORIENTADA A OBJETOS", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "22220470" },
+              { "clave": "02317", "nombre": "ÁLGEBRA LINEAL", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "22110110" },
+              { "clave": "02318", "nombre": "FUNDAMENTOS DE REDES", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "22110111" },
+              { "clave": "02319", "nombre": "VALORES Y MEDIO AMBIENTE", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22110112" },
+              { "clave": "02321", "nombre": "ANÁLISIS DE SISTEMAS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "22110113" },
+              { "clave": "02322", "nombre": "INGLÉS III", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22110114" },
+              { "clave": "02323", "nombre": "PRÁCTICA PROFESIONAL I", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22110115" }
+            ]
+          },
+          {
+            "nombre": "CUARTO SEMESTRE",
+            "materias": [
+              { "clave": "02424", "nombre": "ESTRUCTURA DE DATOS", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22210340" },
+              { "clave": "02425", "nombre": "CÁLCULO DIFERENCIAL E INTEGRAL", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22210341" },
+              { "clave": "02426", "nombre": "DISEÑO E INSTALACIÓN DE REDES", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22210342" },
+              { "clave": "02427", "nombre": "FUNDAMENTOS DE BASES DE DATOS", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "22210343" },
+              { "clave": "02428", "nombre": "DISEÑO DE SISTEMAS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "22210344" },
+              { "clave": "02429", "nombre": "INGLÉS IV", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "22210345" }
+            ]
+          },
+          {
+            "nombre": "QUINTO SEMESTRE",
+            "materias": [
+              { "clave": "02534", "nombre": "PROGRAMACIÓN VISUAL", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23110083" },
+              { "clave": "02535", "nombre": "PROBABILIDAD Y ESTADÍSTICA", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23110084" },
+              { "clave": "02536", "nombre": "ADMINISTRACIÓN DE REDES", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "23110085" },
+              { "clave": "02537", "nombre": "DISEÑO Y ADMINISTRACIÓN DE BASES DE DATOS", "calificacion": 6, "letra": "SEIS", "tipo": "O", "folio": "23110086" },
+              { "clave": "02538", "nombre": "REDACCIÓN DE TEXTOS CIENTÍFICOS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "23110087" },
+              { "clave": "02539", "nombre": "CABLEADO ESTRUCTURADO", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23110088" }
+            ]
+          },
+          {
+            "nombre": "SEXTO SEMESTRE",
+            "materias": [
+              { "clave": "02642", "nombre": "DESARROLLO WEB I", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "23210344" },
+              { "clave": "02643", "nombre": "TEORÍA DE GRAFOS", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23210345" },
+              { "clave": "02644", "nombre": "TECNOLOGÍAS EMERGENTES", "calificacion": 9, "letra": "NUEVE", "tipo": "O", "folio": "23210346" },
+              { "clave": "02645", "nombre": "EMPRENDEDORES", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23210347" },
+              { "clave": "02646", "nombre": "PRÁCTICA PROFESIONAL II", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "23210348" },
+              { "clave": "02647", "nombre": "SEGURIDAD EN REDES", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23210349" },
+              { "clave": "02648", "nombre": "INFORMÁTICA EDUCATIVA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "23210350" }
+            ]
+          },
+          {
+            "nombre": "SÉPTIMO SEMESTRE",
+            "materias": [
+              { "clave": "02751", "nombre": "DESARROLLO WEB II", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "24110084" },
+              { "clave": "02752", "nombre": "INVESTIGACIÓN DE OPERACIONES", "calificacion": 10, "letra": "DIEZ", "tipo": "O", "folio": "24110085" },
+              { "clave": "02753", "nombre": "SEMINARIO DE TESIS", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "24110086" },
+              { "clave": "02755", "nombre": "TECNOLOGÍA MULTIMEDIA", "calificacion": 8, "letra": "OCHO", "tipo": "O", "folio": "24110088" },
+              { "clave": "02756", "nombre": "TELEMÁTICA I", "calificacion": 7, "letra": "SIETE", "tipo": "O", "folio": "24110089" },
+              { "clave": "02754", "nombre": "REDES AVANZADAS", "calificacion": 5, "letra": "CINCO", "tipo": "O", "folio": "24110087" }
+            ]
+          }
+        ]
+    }
+]
