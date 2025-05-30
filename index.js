@@ -13,10 +13,10 @@ app.use(express.json());
 let kardexList = [];
 try {
     const path = require('path')
-    const data = fs.readFileSync(path.join(__dirname + 'kardexDb.json'), 'utf8');
+    const data = fs.readFileSync('kardexDb.json', 'utf8');
     kardexList = JSON.parse(data); 
 } catch (error) {
-    console.error('Error al leer el archivo kardexList.json', error);
+    console.error('Error al leer el archivo kardexDb.json', error);
 }
 
 //Ruta para obtener kardex
