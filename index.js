@@ -2,7 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 app.use(cors());
 app.use(express.json());
@@ -12,7 +12,8 @@ app.use(express.json());
 // Cargar datos desde el archivo JSON
 let kardexList = [];
 try {
-    const data = fs.readFileSync(__dirname + 'kardexDb.json', 'utf8');
+    const path = requeire('path')
+    const data = fs.readFileSync(path.join(__dirname + 'kardexDb.json'), 'utf8');
     kardexList = JSON.parse(data); 
 } catch (error) {
     console.error('Error al leer el archivo kardexList.json', error);
